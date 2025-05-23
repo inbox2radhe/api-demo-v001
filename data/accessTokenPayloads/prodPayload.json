@@ -1,0 +1,4 @@
+{"client_id":"xxxxxxxxxxxxxxxxx",
+"client_secret":"xxxxxxxxxxxxxxxxxxxxxx",
+"audience":"https://api.prod.io/",
+"grant_type":"client_credentials"}

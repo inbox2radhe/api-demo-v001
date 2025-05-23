@@ -1,0 +1,4 @@
+{"client_id":"xxxxxxxxxxxxx",
+"client_secret":"xxxxxxxxxxxxx",
+"audience":"https://api.stg.io/",
+"grant_type":"client_credentials"}

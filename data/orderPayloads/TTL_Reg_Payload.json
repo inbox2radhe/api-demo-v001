@@ -1,0 +1,327 @@
+{
+    "customer_reference_id":"tc-STG-Reg",
+    "vinlocity_orders":[
+      {
+        "customer_reference_id":"tc-STG-Reg",
+        "vehicle":{
+          "vin": "1FTRE1426XHA05368",
+          "is_sold": false,
+          "is_trade_in": true,
+          "is_vehicle_operable": true,
+          "number_of_keys": 0,
+          "is_electrical": true,
+          "fuel_type": "DIESEL",
+          "license_plate_number": "string",
+          "licence_plate_number_stateprovince_code": "NY",
+          "licence_plate_number_expiration_date": "2025-06-01",
+          "license_plate_type": "PASSENGER",
+          "model_year": 2018,
+          "make": "Toyota",
+          "model": "Tocoma",
+          "submodel": "Midnight",
+          "odometer_in_miles": 46325,
+          "empty_weight": 4600,
+          "gross_weight_rating": 4500,
+          "cylinders": 4,
+          "vehicle_msrp": 26351,
+          "color": "string",
+          "special_instructions": "string",
+          "number_of_ev_chargers": 0,
+          "sale_date_on": "2022-06-01",
+          "sale_price": 0,
+          "trade_in_price": 0,
+          "sales_tax_paid": 0
+        },
+        "title_and_registration": {
+          "work_type": "Registration",
+          "client_contacts": [
+            {
+              "contact": {
+                "first_name": "Radhe",
+                "last_name": "Singh",
+                "middle_name": "string",
+                "name_prefix": "DR",
+                "name_prefix_other": "string",
+                "name_suffix": "I",
+                "name_suffix_other": "string",
+                "sex_code": "FEMALE",
+                "position": "string"
+              },
+              "communication": {
+                "email_addresses": [
+                  {
+                    "type": "EMAIL_1",
+                    "email_address": "radhe.shyam@acertusdelivers.com",
+                    "is_primary": true,
+                    "is_opt_in_for_emails": true
+                  }
+                ],
+                "phone_numbers": [
+                  {
+                    "type": "ASSISTANT",
+                    "phone_number": "123-456-7890",
+                    "is_phone_number_primary": true,
+                    "is_opt_in_for_text_messages": true
+                  }
+                ]
+              }
+            }
+          ],
+          "garaged_address_contacts": [
+            {
+              "contact": {
+                "first_name": "Radhe",
+                "last_name": "Singh",
+                "middle_name": "string",
+                "name_prefix": "DR",
+                "name_prefix_other": "string",
+                "name_suffix": "I",
+                "name_suffix_other": "string",
+                "sex_code": "MALE",
+                "position": "string"
+              },
+              "communication": {
+                "email_addresses": [
+                  {
+                    "type": "EMAIL_1",
+                    "email_address": "radhe.shyam@acertusdelivers.com",
+                    "is_primary": true,
+                    "is_opt_in_for_emails": true
+                  }
+                ],
+                "phone_numbers": [
+                  {
+                    "type": "ASSISTANT",
+                    "phone_number": "123-456-7890",
+                    "is_phone_number_primary": true,
+                    "is_opt_in_for_text_messages": true
+                  }
+                ]
+              }
+            }
+          ],
+          "garaged_address": {
+                      "type": "REPO_YARD",
+                      "address_line_1": "660 S Elm St",
+                      "address_line_2": "",
+                      "city": "Gardner",
+                      "county": "Johnson",
+                      "stateprovince_code": "KS",
+                      "country_code": "1",
+                      "postal_code": "66030"
+          },
+          "mail_to_contacts": {
+            "contact": {
+              "first_name": "Guru",
+              "last_name": "Singh",
+              "middle_name": "string",
+              "name_prefix": "DR",
+              "name_prefix_other": "string",
+              "name_suffix": "I",
+              "name_suffix_other": "string",
+              "sex_code": "FEMALE",
+              "position": "string"
+            },
+            "communication": {
+              "email_addresses": [
+                {
+                  "type": "EMAIL_1",
+                  "email_address": "radhe.shyam@acertusdelivers.com",
+                  "is_primary": true,
+                  "is_opt_in_for_emails": true
+                }
+              ],
+              "phone_numbers": [
+                {
+                  "type": "ASSISTANT",
+                  "phone_number": "123-456-7890",
+                  "is_phone_number_primary": true,
+                  "is_opt_in_for_text_messages": true
+                },
+              {
+                  "type": "ASSISTANT",
+                  "phone_number": "888-969-4587",
+                  "is_phone_number_primary": true,
+                  "is_opt_in_for_text_messages": true
+                }
+              ]
+            }
+          },
+          "mail_to_address": {
+                 "type":"NOT_APPLICABLE",
+                 "address_line_1":"1106 Flint Town Rd",
+                 "address_line_2":"",
+                 "city":"Boonville",
+                 "county":"Oneida ",
+                 "stateprovince_code":"NY",
+                 "country_code":"1",
+                 "postal_code":"11309"
+          },
+          "vehicle_registration_address": {
+                 "type":"NOT_APPLICABLE",
+                 "address_line_1":"1106 Flint Town Rd",
+                 "address_line_2":"",
+                 "city":"Boonville",
+                 "county":"Oneida ",
+                 "stateprovince_code":"NY",
+                 "country_code":"1",
+                 "postal_code":"11309"
+          },
+          "initial_documentation_tracking_number": "string",
+          "requirements":"[{\"requirementId\":0,\"value\":\"Liberty\"},{\"requirementId\":60,\"value\":\"09/28/1996\"},{\"requirementId\":355,\"value\":\"YES\"},{\"requirementId\":154,\"value\":\"x338209\"},{\"requirementId\":26,\"value\":\"218423\"},{\"requirementId\":8,\"value\":\"201 N Ott Lane Gardner, KS, 66030\"},{\"requirementId\":125,\"value\":\"987654321\"},{\"requirementId\":131,\"value\":\"201 N Ott Lane Gardner, KS, 66030\"},{\"requirementId\":187,\"value\":\"03/15/2022\"},{\"requirementId\":23,\"value\":\"BBB900\"},{\"requirementId\":10,\"value\":\"201 N Ott Lane Gardner, KS, 66030\"}]",
+          "is_expedited": false
+        },
+        "vehicle_registered_owners": [
+          {
+            "registered_owner_person": {
+              "first_name": "Guru",
+              "last_name": "Singh",
+              "middle_name": "string",
+              "name_prefix": "DR",
+              "name_prefix_other": "string",
+              "name_suffix": "I",
+              "name_suffix_other": "string",
+              "sex_code": "FEMALE",
+              "position": "string"
+            },
+            "registered_owner_company": {
+              "type": "AUCTION_HOUSE",
+              "name": "QA LLC.",
+              "fein": "123456987",
+              "special_instructions": "TESTING"
+            },
+            "tax_exempt_id": "123-exemptid",
+            "insurance_provider_contacts": [
+              {
+                "contact": {
+                  "first_name": "Radhe",
+                  "last_name": "Singh",
+                  "middle_name": "string",
+                  "name_prefix": "DR",
+                  "name_prefix_other": "string",
+                  "name_suffix": "I",
+                  "name_suffix_other": "string",
+                  "sex_code": "FEMALE",
+                  "position": "string"
+                },
+                "communication": {
+                  "email_addresses": [
+                    {
+                      "type": "EMAIL_1",
+                      "email_address": "radhe.shyam@acertusdelivers.com",
+                      "is_primary": true,
+                      "is_opt_in_for_emails": true
+                    }
+                  ],
+                  "phone_numbers": [
+                    {
+                      "type": "ASSISTANT",
+                      "phone_number": "123-456-7890",
+                      "is_phone_number_primary": true,
+                      "is_opt_in_for_text_messages": true
+                    }
+                  ]
+                }
+              }
+            ],
+            "insurance_provider_address": {
+                 "type":"NOT_APPLICABLE",
+                 "address_line_1":"1106 Flint Town Rd",
+                 "address_line_2":"",
+                 "city":"Boonville",
+                 "county":"Oneida ",
+                 "stateprovince_code":"NY",
+                 "country_code":"1",
+                 "postal_code":"11309"
+            },
+            "lien_holder_contacts": [
+              {
+                "contact": {
+                  "first_name": "Radhe",
+                  "last_name": "Singh",
+                  "middle_name": "string",
+                  "name_prefix": "DR",
+                  "name_prefix_other": "string",
+                  "name_suffix": "I",
+                  "name_suffix_other": "string",
+                  "sex_code": "FEMALE",
+                  "position": "string"
+                },
+                "communication": {
+                  "email_addresses": [
+                    {
+                      "type": "EMAIL_1",
+                      "email_address": "radhe.shyam@acertusdelivers.com",
+                      "is_primary": true,
+                      "is_opt_in_for_emails": true
+                    }
+                  ],
+                  "phone_numbers": [
+                    {
+                      "type": "ASSISTANT",
+                      "phone_number": "123-456-7890",
+                      "is_phone_number_primary": true,
+                      "is_opt_in_for_text_messages": true
+                    }
+                  ]
+                }
+              }
+            ],
+            "lien_holder_address": {
+                 "type":"NOT_APPLICABLE",
+                 "address_line_1":"1106 Flint Town Rd",
+                 "address_line_2":"",
+                 "city":"Boonville",
+                 "county":"Oneida ",
+                 "stateprovince_code":"NY",
+                 "country_code":"1",
+                 "postal_code":"11309"
+            },
+            "insurance_policy_number": "string",
+            "insurance_policy_effective_date": "2022-06-01",
+            "insurance_policy_expiration_date": "2024-06-01"
+          }
+        ],
+        "vehicle_registered_address": {
+          "type": "AUCTION_HOUSE",
+                 "type":"NOT_APPLICABLE",
+                 "address_line_1":"1106 Flint Town Rd",
+                 "address_line_2":"",
+                 "city":"Boonville",
+                 "county":"Oneida ",
+                 "stateprovince_code":"NY",
+                 "country_code":"1",
+                 "postal_code":"11309"
+        },
+        "vehicle_registered_owner_contacts": [
+          {
+            "contact": {
+              "type": "FLEET",
+              "name": "Ford",
+              "fein": "93-1234567",
+              "special_instructions": "string"
+            },
+            "communication": {
+              "email_addresses": [
+                {
+                  "type": "EMAIL_1",
+                  "email_address": "string",
+                  "is_primary": true,
+                  "is_opt_in_for_emails": true
+                }
+              ],
+              "phone_numbers": [
+                {
+                  "type": "ASSISTANT",
+                  "phone_number": "123-456-7890",
+                  "is_phone_number_primary": true,	
+                  "is_opt_in_for_text_messages": true
+                }
+              ]
+            }
+          }
+        ],
+        "order_offer_expiration_at": "2021-12-13T16:44:54.190Z"
+      }
+    ]
+  }

@@ -1,0 +1,186 @@
+{
+    "customer_reference_id":"tc-stg-lreg",
+    "vinlocity_orders":[
+      {
+        "customer_reference_id":"tc-stg-lreg",
+        "vehicle":{
+          "vin":"3C6JD6AT0CG253458",
+          "fuel_type":"GAS",
+          "license_plate_type":"PASSENGER",
+          "model_year":2018,
+          "make":"FORD",
+          "model":"FUSION",
+          "odometer_in_miles":10875,
+          "cylinders":4,
+          "empty_weight":3448,
+          "color":"BLUE",
+          "is_sold":false
+        },
+        "title_and_registration":{
+          "work_type":"LeaseRegistration",
+          "lessor_address":{
+            "type":"FMC",
+            "address_line_1":"7833 OHIO ST",
+            "country_code":"USA",
+            "postal_code":"11418",
+            "address_line_2":"",
+            "city":"RICHMOND HILL",
+            "county":"QUEENS",
+            "stateprovince_code":"NY"
+          },
+          "requirements": "[{\"requirementId\":0,\"value\":\"Liberty\"},{\"requirementId\":60,\"value\":\"09/28/1996\"},{\"requirementId\":355,\"value\":\"YES\"},{\"requirementId\":154,\"value\":\"x338209\"},{\"requirementId\":26,\"value\":\"218423\"},{\"requirementId\":8,\"value\":\"201 N Ott Lane Gardner, KS, 66030\"},{\"requirementId\":125,\"value\":\"987654321\"},{\"requirementId\":131,\"value\":\"201 N Ott Lane Gardner, KS, 66030\"},{\"requirementId\":187,\"value\":\"03/15/2022\"},{\"requirementId\":23,\"value\":\"BBB900\"},{\"requirementId\":10,\"value\":\"201 N Ott Lane Gardner, KS, 66030\"}]",
+          "monthly_lease_payment":345,
+          "original_number_of_lease_payments":35,
+          "remaining_number_of_lease_payments":35,
+          "client_contacts":[
+            {
+              "contact":{
+                "first_name":"John",
+                "last_name":"Doe"
+              },
+              "communication":{
+                "email_addresses":[{
+                  "type":"EMAIL_1",
+                  "email_address":"test@address.com"
+                }],
+                "phone_numbers":[{
+                  "type":"OFFICE",
+                  "phone_number":"415 555 0132"
+                }]
+              }
+            }
+          ],
+          "garaged_address_contacts":[
+            {
+              "contact":{
+                "first_name":"John",
+                "last_name":"Doe"
+              },
+              "communication":{
+                "email_addresses":[{
+                  "type":"EMAIL_1",
+                  "email_address":"test@address.com"
+                }],
+                "phone_numbers":[{
+                  "type":"OFFICE",
+                  "phone_number":"415 555 0132"
+                }]
+              }
+            }
+          ],
+          "garaged_address":{
+            "type":"FMC",
+            "address_line_1":"7833 OHIO ST",
+            "country_code":"USA",
+            "postal_code":"11418",
+            "address_line_2":"",
+            "city":"RICHMOND HILL",
+            "county":"QUEENS",
+            "stateprovince_code":"NY"
+          },
+          "mail_to_contacts":
+            {
+              "contact":{
+               "first_name":"John",
+                "last_name":"Doe"
+              },
+              "communication":{
+                "email_addresses":[{
+                  "type":"EMAIL_1",
+                  "email_address":"test@address.com",
+                  "is_primary":true,
+                  "is_opt_in_for_emails": true
+                }],
+                "phone_numbers":[{
+                  "type":"MOBILE",
+                  "phone_number":"888-969-9686",
+                  "is_phone_number_primary": true,
+                  "is_opt_in_for_text_messages": true
+                }]
+              }
+            },
+          
+          "mail_to_address":{
+            "type":"FMC",
+            "address_line_1":"7833 OHIO ST",
+            "country_code":"USA",
+            "postal_code":"11418",
+            "address_line_2":"",
+            "city":"RICHMOND HILL",
+            "county":"QUEENS",
+            "stateprovince_code":"NY"
+          },
+          "vehicle_registration_address":{
+            "type":"REGISTERED_OWNER",
+            "address_line_1":"123 Anytown",
+            "country_code":"USA",
+            "postal_code":"11418",
+            "address_line_2":"",
+            "city":"RICHMOND HILL",
+            "county":"QUEENS",
+            "stateprovince_code":"NY"
+          },
+          "initial_documentation_tracking_number":"",
+          "is_expedited":false
+        },
+        "vehicle_registered_owners":[
+          {
+            "registered_owner_company":{
+              "type":"DEALER",
+              "name":"ACB Company"
+            },
+            "tax_exempt_id":"string",
+            "insurance_provider_contacts":[
+              {
+                "contact":{
+                  "first_name":"John",
+                  "last_name":"Doe"
+                },
+                "communication":{
+                  "email_addresses":[{
+                    "type":"EMAIL_1",
+                    "email_address":"test@address.com"
+                  }],
+                  "phone_numbers":[{
+                    "type":"OFFICE",
+                    "phone_number":"415 555 0132"
+                  }]
+                }
+              }
+            ],
+            "insurance_policy_number":"R-12345",
+            "insurance_policy_effective_date":"4/23/2023",
+            "insurance_policy_expiration_date":"06/23/2024"
+          }
+        ],
+        "vehicle_registered_address":{
+          "type":"REGISTERED_OWNER",
+          "address_line_1":"123 Anytown",
+          "country_code":"USA",
+          "postal_code":"11418",
+          "address_line_2":"",
+          "city":"RICHMOND HILL",
+          "county":"QUEENS",
+          "stateprovince_code":"NY"
+        },
+        "vehicle_registered_owner_contacts":[
+          {
+            "contact":{
+              "first_name":"John",
+              "last_name":"Doe"
+            },
+            "communication":{
+              "email_addresses":[{
+                "type":"EMAIL_1",
+                "email_address":"test@address.com"
+              }],
+              "phone_numbers":[{
+                "type":"OFFICE",
+                "phone_number":"+1 415 555 0132"
+              }]
+            }
+          }
+        ]
+      }
+    ]
+  }

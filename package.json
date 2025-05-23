@@ -1,0 +1,20 @@
+{
+  "name": "mkt_api_automationv001",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.14.1"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.8.0",
+    "exceljs": "^4.4.0",
+    "json5": "^2.2.3",
+    "xlsx": "^0.18.5"
+  }
+}

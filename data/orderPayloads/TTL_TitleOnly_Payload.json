@@ -1,0 +1,321 @@
+{
+    "customer_reference_id":"TC_TitleOnly_Stg",
+    "vinlocity_orders":[
+      {
+        "customer_reference_id":"TC_TitleOnly_Stg",
+        "vehicle":{
+          "vin": "3GCRCSE02AG152619",
+          "is_sold": false,
+          "is_trade_in": true,
+          "is_vehicle_operable": true,
+          "number_of_keys": 0,
+          "is_electrical": true,
+          "fuel_type": "DIESEL",
+          "license_plate_number": "string",
+          "licence_plate_number_stateprovince_code": "NY",
+          "licence_plate_number_expiration_date": "2022-06-01",
+          "license_plate_type": "PASSENGER",
+          "model_year": 0,
+          "make": "string",
+          "model": "string",
+          "submodel": "string",
+          "odometer_in_miles": 0,
+          "empty_weight": 6000,
+          "gross_weight_rating": 0,
+          "cylinders": 4,
+          "vehicle_msrp": 0,
+          "color": "string",
+          "special_instructions": "string",
+          "number_of_ev_chargers": 0,
+          "sale_date_on": "2023-06-01",
+          "sale_price": 0,
+          "trade_in_price": 0,
+          "sales_tax_paid": 0
+        },
+        "title_and_registration": {
+          "work_type": "TitleOnly",
+          "client_contacts": [
+            {
+              "contact": {
+                "first_name": "Nathan",
+                "last_name": "Fox",
+                "middle_name": "string",
+                "name_prefix": "DR",
+                "name_prefix_other": "string",
+                "name_suffix": "I",
+                "name_suffix_other": "string",
+                "sex_code": "FEMALE",
+                "position": "string"
+              },
+              "communication": {
+                "email_addresses": [
+                  {
+                    "type": "EMAIL_1",
+                    "email_address": "string",
+                    "is_primary": true,
+                    "is_opt_in_for_emails": true
+                  }
+                ],
+                "phone_numbers": [
+                  {
+                    "type": "ASSISTANT",
+                    "phone_number": "123-456-7890",
+                    "is_phone_number_primary": true,
+                    "is_opt_in_for_text_messages": true
+                  }
+                ]
+              }
+            }
+          ],
+          "garaged_address_contacts": [
+            {
+              "contact": {
+                "first_name": "Nathan",
+                "last_name": "Fox",
+                "middle_name": "string",
+                "name_prefix": "DR",
+                "name_prefix_other": "string",
+                "name_suffix": "I",
+                "name_suffix_other": "string",
+                "sex_code": "MALE",
+                "position": "string"
+              },
+              "communication": {
+                "email_addresses": [
+                  {
+                    "type": "EMAIL_1",
+                    "email_address": "string",
+                    "is_primary": true,
+                    "is_opt_in_for_emails": true
+                  }
+                ],
+                "phone_numbers": [
+                  {
+                    "type": "ASSISTANT",
+                    "phone_number": "123-456-7890",
+                    "is_phone_number_primary": true,
+                    "is_opt_in_for_text_messages": true
+                  }
+                ]
+              }
+            }
+          ],
+          "garaged_address": {
+                 "type":"NOT_APPLICABLE",
+                 "address_line_1":"1106 Flint Town Rd",
+                 "address_line_2":"",
+                 "city":"Boonville",
+                 "county":"Oneida",
+                 "stateprovince_code":"NY",
+                 "country_code":"1",
+                 "postal_code":"11309"
+          },
+          "mail_to_contacts": {
+            "contact": {
+              "first_name": "string",
+              "last_name": "string",
+              "middle_name": "string",
+              "name_prefix": "DR",
+              "name_prefix_other": "string",
+              "name_suffix": "I",
+              "name_suffix_other": "string",
+              "sex_code": "FEMALE",
+              "position": "string"
+            },
+            "communication": {
+              "email_addresses": [
+                {
+                  "type": "EMAIL_1",
+                  "email_address": "string",
+                  "is_primary": true,
+                  "is_opt_in_for_emails": true
+                }
+              ],
+              "phone_numbers": [
+                {
+                  "type": "ASSISTANT",
+                  "phone_number": "123-456-7890",
+                  "is_phone_number_primary": true,
+                  "is_opt_in_for_text_messages": true
+                }
+              ]
+            }
+          },
+          "mail_to_address": {
+                 "type":"NOT_APPLICABLE",
+                 "address_line_1":"1106 Flint Town Rd",
+                 "address_line_2":"",
+                 "city":"Boonville",
+                 "county":"Oneida ",
+                 "stateprovince_code":"NY",
+                 "country_code":"1",
+                 "postal_code":"11309"
+          },
+          "vehicle_registration_address": {
+                 "type":"NOT_APPLICABLE",
+                 "address_line_1":"1106 Flint Town Rd",
+                 "address_line_2":"",
+                 "city":"Boonville",
+                 "county":"Oneida ",
+                 "stateprovince_code":"NY",
+                 "country_code":"1",
+                 "postal_code":"11309"
+          },
+          "initial_documentation_tracking_number": "string",
+          "requirements":"[{\"requirementId\":0, \"value\":\"testford\"}, {\"requirementId\":1, \"value\":\"122211122\"}, {\"requirementId\":147, \"value\":\"2023-05-18\"}, {\"requirementId\":3, \"value\":\"1000\"}, {\"requirementId\":52, \"value\":\"red\"}, {\"requirementId\":148, \"value\":\"2024-05-16\"}, {\"requirementId\":3029, \"value\":\"2015\"}, {\"requirementId\":23, \"value\":\"VUY5555\"}, {\"requirementId\":10,\"value\":\"23402 Kerrisdale Way Sterling, VA, 20166\"}, {\"requirementId\":26, \"value\":\"12-1111222\"}, {\"requirementId\":74, \"value\":\"2000\"}, {\"requirementId\":187, \"value\":\"2023-08-20\"}]",
+          "is_expedited": false
+        },
+        "vehicle_registered_owners": [
+          {
+            "registered_owner_person": {
+              "first_name": "string",
+              "last_name": "string",
+              "middle_name": "string",
+              "name_prefix": "DR",
+              "name_prefix_other": "string",
+              "name_suffix": "I",
+              "name_suffix_other": "string",
+              "sex_code": "FEMALE",
+              "position": "string"
+            },
+            "registered_owner_company": {
+              "type": "AUCTION_HOUSE",
+              "name": "string",
+              "fein": "string",
+              "special_instructions": "string"
+            },
+            "tax_exempt_id": "string",
+            "insurance_provider_contacts": [
+              {
+                "contact": {
+                  "first_name": "string",
+                  "last_name": "string",
+                  "middle_name": "string",
+                  "name_prefix": "DR",
+                  "name_prefix_other": "string",
+                  "name_suffix": "I",
+                  "name_suffix_other": "string",
+                  "sex_code": "FEMALE",
+                  "position": "string"
+                },
+                "communication": {
+                  "email_addresses": [
+                    {
+                      "type": "EMAIL_1",
+                      "email_address": "string",
+                      "is_primary": true,
+                      "is_opt_in_for_emails": true
+                    }
+                  ],
+                  "phone_numbers": [
+                    {
+                      "type": "ASSISTANT",
+                      "phone_number": "123-456-7890",
+                      "is_phone_number_primary": true,
+                      "is_opt_in_for_text_messages": true
+                    }
+                  ]
+                }
+              }
+            ],
+            "insurance_provider_address": {
+                 "type":"NOT_APPLICABLE",
+                 "address_line_1":"1106 Flint Town Rd",
+                 "address_line_2":"",
+                 "city":"Boonville",
+                 "county":"Oneida ",
+                 "stateprovince_code":"NY",
+                 "country_code":"1",
+                 "postal_code":"11309"
+            },
+            "lien_holder_contacts": [
+              {
+                "contact": {
+                  "first_name": "string",
+                  "last_name": "string",
+                  "middle_name": "string",
+                  "name_prefix": "DR",
+                  "name_prefix_other": "string",
+                  "name_suffix": "I",
+                  "name_suffix_other": "string",
+                  "sex_code": "FEMALE",
+                  "position": "string"
+                },
+                "communication": {
+                  "email_addresses": [
+                    {
+                      "type": "EMAIL_1",
+                      "email_address": "string",
+                      "is_primary": true,
+                      "is_opt_in_for_emails": true
+                    }
+                  ],
+                  "phone_numbers": [
+                    {
+                      "type": "ASSISTANT",
+                      "phone_number": "123-456-7890",
+                      "is_phone_number_primary": true,
+                      "is_opt_in_for_text_messages": true
+                    }
+                  ]
+                }
+              }
+            ],
+            "lien_holder_address": {
+                 "type":"NOT_APPLICABLE",
+                 "address_line_1":"1106 Flint Town Rd",
+                 "address_line_2":"",
+                 "city":"Boonville",
+                 "county":"Oneida ",
+                 "stateprovince_code":"NY",
+                 "country_code":"1",
+                 "postal_code":"11309"
+            },
+            "insurance_policy_number": "string",
+            "insurance_policy_effective_date": "2022-06-01",
+            "insurance_policy_expiration_date": "2024-06-01"
+          }
+        ],
+        "vehicle_registered_address": {
+          "type": "AUCTION_HOUSE",
+                 "type":"NOT_APPLICABLE",
+                 "address_line_1":"1106 Flint Town Rd",
+                 "address_line_2":"",
+                 "city":"Boonville",
+                 "county":"Oneida ",
+                 "stateprovince_code":"NY",
+                 "country_code":"1",
+                 "postal_code":"11309"
+        },
+        "vehicle_registered_owner_contacts": [
+          {
+            "contact": {
+              "type": "FLEET",
+              "name": "Ford",
+              "fein": "93-1234567",
+              "special_instructions": "string"
+            },
+            "communication": {
+              "email_addresses": [
+                {
+                  "type": "EMAIL_1",
+                  "email_address": "string",
+                  "is_primary": true,
+                  "is_opt_in_for_emails": true
+                }
+              ],
+              "phone_numbers": [
+                {
+                  "type": "ASSISTANT",
+                  "phone_number": "123-456-7890",
+                  "is_phone_number_primary": true,	
+                  "is_opt_in_for_text_messages": true
+                }
+              ]
+            }
+          }
+        ],
+        "order_offer_expiration_at": "2021-12-13T16:44:54.190Z"
+      }
+    ]
+  }

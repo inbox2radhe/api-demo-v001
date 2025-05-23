@@ -1,0 +1,4 @@
+{"client_id":"xxxxxxx",
+"client_secret":"xxxxxxxxxxxxxx",
+"audience":"https://api.dev.io/",
+"grant_type":"client_credentials"}
