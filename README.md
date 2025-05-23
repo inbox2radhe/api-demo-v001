@@ -12,6 +12,9 @@ This project uses [Playwright](https://playwright.dev/) for end-to-end and API t
 ├── package.json # NPM project configuration
 ├── .github/workflows/ # GitHub Actions CI workflow
 └── README.md
+Prerequsit to run the framework
+playwright
+node js
 
 Author
 Radhe Shyam Singh
